@@ -10,7 +10,7 @@ I am a data scientist working on environmental projects  with Machine Leraning 
 
 ## ⚡ My main data science projects
 I worked mainly on Machine Learning and Remote sensing. You can explore my public repositories :
-* Machine learning learning for remote sensing
+* Mapping and monitoring flooded area (Radar and optical images)
 * Unsupervised algorithms for remote sensing
 * Daily rainfall prediction with LSTM Neural network
 
